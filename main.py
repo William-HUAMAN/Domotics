@@ -1,1 +1,1 @@
-print('This version is Basic')
+print('This version is Basic 1.0')
