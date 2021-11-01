@@ -1,1 +1,3 @@
-print('This version is Basic 1.0')
+# Author: William HUAMÁN HUAMÁN
+# Version:1.0
+# Occupation: Student
