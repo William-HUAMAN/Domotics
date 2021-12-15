@@ -185,7 +185,7 @@ class MainWindow(QMainWindow):
 
     # LEFT MENU BTN IS RELEASED
     # Run function when btn is released
-    # Check funtion by object name / btn_id
+    # Check function by object name / btn_id
     # ///////////////////////////////////////////////////////////////
     def btn_released(self):
         # GET BT CLICKED

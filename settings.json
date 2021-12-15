@@ -3,10 +3,10 @@
     "version" : "v1.0.0",
     "copyright" : "By: Wanderson M. Pimenta",
     "year" : 2021,
-    "theme_name" : "bright_theme",
+    "theme_name" : "default",
     "custom_title_bar": true,
     "startup_size": [
-        1400,
+        1388,
         720
     ],
     "minimum_size": [
